@@ -13,4 +13,5 @@ Thumbs.db
 
 # Ignore environment and secret files
 .env
+venv/
 config.json
